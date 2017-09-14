@@ -23,7 +23,7 @@ To build, ensure you have `node` and `npm` installed, and run:
 
 Once dependencies are installed, run with `gulp`:
 
-    $ gulp serve
+    $ npm start
 
 ## Related (third-party) projects
 
